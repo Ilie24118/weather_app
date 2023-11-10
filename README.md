@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   Weather_app
@@ -28,10 +27,11 @@ $ docker-compose up --build
 ```
 
 ##  API:
-** /api/weather/current/ ** shows the the current weather of the locations that the logged user has saved
+__/api/weather/current/__ shows the the current weather of the locations that the logged user has saved
 <br>
-** /api/weather/search/<city> ** searches a city and presents curent weather
+__/api/weather/search/<city>__ searches a city and presents curent weather
 <br>
-** /api/weather/forecast/<city>  ** presents the weather forecast of the chosen city
+__/api/weather/forecast/<city>__ presents the weather forecast of the chosen city
 <br>
+
 
