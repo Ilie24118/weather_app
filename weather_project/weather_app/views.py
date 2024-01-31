@@ -15,7 +15,7 @@ import requests
 from .forms import CityForm
 
 # OpenWeatherMap API Token
-api_token = "017b4a64c7d8af3df9539f50b6f96f25"
+api_token = ""
 
 
 @login_required(login_url="login")
